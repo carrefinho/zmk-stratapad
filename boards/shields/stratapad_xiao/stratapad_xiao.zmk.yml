@@ -1,0 +1,7 @@
+file_format: "1"
+id: stratapad_xiao
+name: Stratapad XIAO
+type: shield
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
