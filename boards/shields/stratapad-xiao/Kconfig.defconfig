@@ -1,6 +1,6 @@
 if SHIELD_STRATAPAD_XIAO
 
 config ZMK_KEYBOARD_NAME
-    default "Stratapad XIAO"
+    default "Stratapad"
   
 endif
