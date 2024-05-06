@@ -1,3 +1,4 @@
+name: stratapad_xiao
 build:
   settings:
     board_root: .
