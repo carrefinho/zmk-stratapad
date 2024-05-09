@@ -7,8 +7,8 @@
 
         default_layer {
             bindings = <
-                        &kp O
-                &kp K   &kp L    &kp SEMI
+                                    &kp O
+                            &kp K   &kp L    &kp SEMI
                 &kp SQT
             >;
         };
